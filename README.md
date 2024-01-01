@@ -1,7 +1,7 @@
 # spritesheet-animate
 [![npm version](https://badge.fury.io/js/spritesheet-animate.svg)](https://badge.fury.io/js/spritesheet-animate)
 # Demo
-""
+"https://spritesheetanimator.netlify.app/"
 # Usage
 ```js
 import { animateSpritesheet, METHODS } from "./animateSpritesheet.js";
